@@ -1,7 +1,5 @@
 # Polar Function Graphing (Bresenham Algorithm)
 
-## Repository: polar-function-graphing-bresenham
-
 ### Description
 This project, completed as part of the coursework at the Benemérita Universidad Autónoma de Puebla, focuses on graphing a polar function using the Bresenham algorithm in the Code::Blocks IDE. The aim is to visualize a polar function, specifically a Rose Curve, while optimizing computational efficiency through the use of the Bresenham line algorithm.
 
